@@ -4,7 +4,7 @@
 
 soong_namespace {
     imports: [
-        "vendor/motorola/sm7325-common",
+        "vendor/motorola/sm8350-common",
         "hardware/motorola",
         "hardware/qcom-caf/sm8350",
         "hardware/qcom-caf/wlan",
